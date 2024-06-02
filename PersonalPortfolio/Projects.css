@@ -1,0 +1,23 @@
+.headingPadding{
+    padding-left: 90px;
+
+}
+body p{
+    padding: 30px;
+}
+.papa{
+    padding: 200px;
+}
+body a{
+    color: rgb(151, 67, 224);
+}
+.divsource{
+    float: right;
+    padding-right: 100px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.divsource a{
+    color: whitesmoke;
+    
+}

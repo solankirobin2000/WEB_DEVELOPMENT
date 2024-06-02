@@ -1,0 +1,17 @@
+body a:hover {
+    color: rgb(240, 60, 28);
+    font-size: 17px;
+}
+
+body h5 {
+    color: whitesmoke;
+}
+
+img {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+
+}
+.maindiv{
+    padding-bottom: 20px;
+}

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100;0,400;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Noto+Serif:ital,wght@0,100;0,400;1,400&display=swap');
+
+body * {
+    background-color: rgb(53, 53, 53);
+    margin: 0;
+    padding: 0;
+    color: wheat;
+}
+
+body a {
+    text-decoration: none;
+}
+.hrbottom{
+    height: 2px ;
+    background-color: wheat; 
+}
+
+
+
+header {
+    background-color: rgb(53, 53, 53);
+    padding: 1.1vw;
+
+}
+
+nav {
+    display: block;
+
+}
+
+.rightheader {
+    display: inline;
+    float: right;
+
+
+
+}
+.typocursor{
+    color: rgb(151, 67, 224);
+}
+body a{
+    color: rgb(151, 67, 224);
+}
+.fot{
+    padding: 6px;
+    width: max-content;
+     color: whitesmoke;
+     background-color: rgba(32, 32, 32,0.5);
+    place-self: center;
+    font-family:  serif;
+    border-radius: 18px;
+    font-weight: bold;
+    
+    
+}
+.fot1{
+    padding-bottom: 20px;
+    padding-left: 520px;
+    text-align: center;
+}
+
+
+
+.rightheader a {
+    margin: 0vw 2vw;
+    text-decoration: none;
+    /* color: white; */
+    font-size: 1.1em;
+    font-family: 'Lora', serif;
+    font-family: 'Noto Serif', serif;
+}
+
+.rightheader a:hover {
+    color: rgb(206, 199, 199);
+    font-size: 1.15em;
+}
+
+.leftheader {
+    margin: 0vw 1.5vw;
+    display: inline;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-family: 'Noto Serif', serif;
+
+}
